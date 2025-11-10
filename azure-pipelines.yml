@@ -1,8 +1,7 @@
 # ===============================
 # Azure DevOps CI/CD Pipeline
 # ===============================
-# This pipeline builds a Docker image, pushes it to ACR,
-# and deploys it to AKS using kubectl.
+# This pipeline builds a Docker image, pushes it to ACR and deploys it to AKS using kubectl.
 # ===============================
 
 trigger:
