@@ -5,7 +5,7 @@
 # ===============================
 
 trigger:
-- main   # Change branch if needed
+- main   # The repo branch
 
 variables:
   # Customize these values
